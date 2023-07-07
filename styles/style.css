@@ -182,19 +182,14 @@ ol {
 }
 
 .content__card-link {
+  display: block;
+  margin: 2px;
   color: inherit;
   text-decoration: none;
 }
 
 .content__card-link_current {
   background-color: #545050;
-}
-
-.content__card-link {
-  display: block;
-  margin: 2px;
-  color: inherit;
-  text-decoration: none;
 }
 
 .content__card-link:hover {
